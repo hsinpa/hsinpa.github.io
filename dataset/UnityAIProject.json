@@ -72,7 +72,7 @@
         "projectDescriptionList": [
             "Can endure hundred of unit without fps drop",
             "Use Flow Field path finding to greatly reduce computation needs",
-            "Player can move map block around, which create dynamic environment",
+            "Player can move map block around, which create dynamic environment"
         ],
         "projectDescriptionWithLink": [ {
             "url": "https://github.com/hsinpa/MazeDefense",
