@@ -52,6 +52,17 @@
                 "projectScreenshot" : [],
                 "projectURL" : "https://www.expectstudio.com/project-06-3",
                 "projectDescriptionList" : ["Calculate and score whether the player go against the rule during trainging"]
+            },
+            {
+                "projectName" : "Substance Eraser: A shader based tool, that can remove dirts on target texture",
+                "projectScreenshot" : ["./sprites/screenshots/substance_eraser.jpg"],
+                "projectURL" : "https://youtu.be/59V90E7wkHg",
+                "projectDescriptionList" : ["Preparation step",
+                    "RGB mask texture (so support up to 3 substances)",
+                    "Origin diffuce texture, Dirt texture, and recorded paint texture",
+                    "A recorded paint texture, that will dynmanic track what user draw",
+                    "DynamicPaint Texture minus Mask Texture, to decide if dirt texture is show or not"
+                ]
             }
         ]
     },

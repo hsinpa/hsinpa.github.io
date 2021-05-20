@@ -42,7 +42,12 @@
         "projectDescriptionList": [
             "Design the computer vision algorithm to capture contour on raw 2D texture",
             "Implement Marhcing Cube to create 3D mesh from processed output",
-            "Mess around with some basic Arkit/Arcore functions",
+            "Algorithm in detail",
+            "1. Scale and crop(into power of 2) the camera image down, for faster computation",
+            "2. Use Guassian blur to filter out noises, and dilation to emphasize lines",
+            "3. Use moore neighborhood algorithm to find contour",
+            "4. Use Cube marching algorithm to create mesh from",
+            "5. duplicate 2d mesh, and glue two plane mesh together for 3d mesh",
             "Utilized: Unity3D C#, Shader HLSL, Compute shader"
         ],
         "projectDescriptionWithLink": [ {
