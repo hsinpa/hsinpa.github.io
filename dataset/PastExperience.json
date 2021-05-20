@@ -57,11 +57,12 @@
                 "projectName" : "Substance Eraser: A shader based tool, that can remove dirts on target texture",
                 "projectScreenshot" : ["./sprites/screenshots/substance_eraser.jpg"],
                 "projectURL" : "https://youtu.be/59V90E7wkHg",
-                "projectDescriptionList" : ["Preparation step",
+                "projectDescriptionList" : ["Algorithm steps",
                     "RGB mask texture (so support up to 3 substances)",
                     "Lerp between Origin diffuce texture and Dirt texture",
                     "A recorded paint texture, that will dynamically track what user draw",
-                    "Mask Texture minus DynamicPaint Texture, to decide the lerp value of dirt texture"
+                    "Mask Texture minus DynamicPaint Texture, to decide the lerp value of dirt texture",
+                    "<a href='https://youtu.be/59V90E7wkHg'>Youtube Demo</a>"
                 ]
             }
         ]
