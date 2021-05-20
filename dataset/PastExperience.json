@@ -59,9 +59,9 @@
                 "projectURL" : "https://youtu.be/59V90E7wkHg",
                 "projectDescriptionList" : ["Preparation step",
                     "RGB mask texture (so support up to 3 substances)",
-                    "Origin diffuce texture, Dirt texture, and recorded paint texture",
-                    "A recorded paint texture, that will dynmanic track what user draw",
-                    "DynamicPaint Texture minus Mask Texture, to decide if dirt texture is show or not"
+                    "Lerp between Origin diffuce texture and Dirt texture",
+                    "A recorded paint texture, that will dynamically track what user draw",
+                    "Mask Texture minus DynamicPaint Texture, to decide the lerp value of dirt texture"
                 ]
             }
         ]
