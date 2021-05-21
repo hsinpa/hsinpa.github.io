@@ -1,4 +1,20 @@
 [
+
+    {
+        "name": "Random Walk on WebGL 5, April 2021",
+        "projectDescriptionList": [
+            "Color picker tool made with pure webgl 1.0",
+            "Use data-driven approach to load existing shape, and shader file path from external json file",
+            "Procedually generate the vertex, uv array of color wheel, and rectangle shape",
+            "Use shader to change individual shape's diffuse color or gradient color",
+            "A interview assignment, made in 4 days",
+            "<a href='https://hsinpa.github.io/WebGLColorWheelPhase'>Live Demo</a>, <a href='https://github.com/hsinpa/WebGLColorWheelPhase'>Github</a>",
+            "Utilized: Typescript, REGL"
+        ],
+        "projectDescriptionWithLink": [],
+        "projectScreenshot": ["./sprites/personal_project/webgl_color_picker.jpg"], 
+        "youtube" : ""
+    },
     {
         "name": "Snake Mesh Editor, Feb 2021",
         "projectDescriptionList": [
@@ -17,18 +33,18 @@
         "youtube" : "Z_dJDHrxClU"
     },
     {
-        "name": "Random Walk on WebGL, Jan-Feb 2021",
+        "name": "Random Walk on WebGL 1~4, Jan-Feb 2021",
         "projectDescriptionList": [
             "No library involve, except REGL, for us to consentrate more on shader code",
             "<a href='https://hsinpa.github.io/WebGLPlayground/'>Web Canvas : Deep Parallel & Bubble Particle Effect</a>",
-            "Warm up for actual fun; No Real webgl envolve; However, the result look pretty good",
+            "Use canvas to draw particle and make it spray on certain direction; No webgl or shader involve yet",
             "<a href='https://hsinpa.github.io/WebGLPlayground/adp6_effect.html'>Webgl shader : Scrolling & Shader Distort</a>",
-            "CSS blur and simple distort effect when mouse scroll",
+            "CSS blur and texture distort effect when mouse scroll",
             "<a href='https://hsinpa.github.io/WebGLPlayground/glitch_effect.html'>Webgl shader : Cyberpunk 2077 Glitching Effect</a>",
             "Simple chromatic aberration effect from tweak rgb value seperately; Dones't look closed to what cyberpunk 2077 does",
             "<a href='https://hsinpa.github.io/WebGLPlayground/floating_island.html'>Webgl shader : Floating Effect</a>",
-            "A demo make for outsourcing project; Done within 2 hours",
-            "Utilized: Typescript, WEBGL, REGL"
+            "Use shader to create the layer of waves, its free to change its attributes",
+            "Utilized: Typescript, WebGL, REGL"
         ],
         "projectDescriptionWithLink": [ {
             "url": "https://github.com/hsinpa/WebGLPlayground",
