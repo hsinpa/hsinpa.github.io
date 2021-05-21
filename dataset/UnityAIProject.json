@@ -4,10 +4,10 @@
         "name": "Random Walk on WebGL 5, April 2021",
         "projectDescriptionList": [
             "Color picker tool made with pure webgl 1.0",
-            "Use data-driven approach to load existing shape, and shader file path from external json file",
-            "Procedually generate the vertex, uv array of color wheel, and rectangle shape",
+            "Use data-driven approach to load existing shapes, and shader file path from external json file",
+            "Procedually generate the vertex, uv array of sphere shape",
             "Use shader to change individual shape's diffuse color or gradient color",
-            "A interview assignment, made in 4 days",
+            "An interview assignment, made in 4 days",
             "<a href='https://hsinpa.github.io/WebGLColorWheelPhase'>Live Demo</a>, <a href='https://github.com/hsinpa/WebGLColorWheelPhase'>Github</a>",
             "Utilized: Typescript, REGL"
         ],
