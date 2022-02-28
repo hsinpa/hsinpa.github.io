@@ -1,6 +1,23 @@
 [
     {
-        "companyname" : "HTC (2018 - Present)",
+        "companyname" : "Viewsonic (2021 - Present)",
+        "companyUrl" : "./sprites/logo/viewsonic_logo.jpg",
+        "jobTitle" : "Senior Developer",
+        "screenshot_enlargable" : "false",
+        "projectInfoArray" : [
+            {
+                "projectName" : "Viewsonic Universe",
+                "projectScreenshot" : [],
+                "projectURL" : "",
+                "projectDescriptionList" : ["Different from my past role, I now bearing more responsibility to other developer's output",
+                                            "Dig deep into WebRTC technology, extend it from simple video conference. For example, a remote controller, connect between browser and unity application",
+                                            "Basically, layout the foundation of multiplayer architecture, from syncrhonization to easy scalability",
+                                            "Quite busy with current role, and still adapting, however I will spend more time on organize my recent work, some of them are outstanding"]
+            }
+        ]
+    },
+    {
+        "companyname" : "HTC (2018 - 2021)",
         "companyUrl" : "./sprites/logo/htc_logo.png",
         "jobTitle" : "Senior Viveport Developer",
         "screenshot_enlargable" : "true",
@@ -131,4 +148,5 @@
             }
         ]
     }
+
 ]
