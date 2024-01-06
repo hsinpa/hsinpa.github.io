@@ -6,13 +6,15 @@
         "screenshot_enlargable" : "false",
         "projectInfoArray" : [
             {
-                "projectName" : "Viewsonic Universe",
-                "projectScreenshot" : [],
-                "projectURL" : "",
-                "projectDescriptionList" : ["Different from my past role, I now bearing more responsibility to other developer's output",
-                                            "Dig deep into WebRTC technology, extend it from simple video conference. For example, a remote controller, connect between browser and unity application",
-                                            "Basically, layout the foundation of multiplayer architecture, from syncrhonization to easy scalability",
-                                            "Quite busy with current role, and still adapting, however I will spend more time on organize my recent work, some of them are outstanding"]
+                "projectName" : "UNIVERSE by ViewSonic",
+                "projectScreenshot" : ["./sprites/screenshots/vs_universe_screenshot_01.png",
+                                        "./sprites/screenshots/vs_universe_screenshot_02.png"],
+                "projectURL" : "https://universe.viewsonic.io/",
+                "projectDescriptionList" : ["Deep dive into WebRTC, able to build a video conference and save a million contract compare to previous service",
+                                            "A customize, interior editor. Allow teacher to design their own classroom. <a href='https://youtu.be/4W_hgxFudIM'>Show case</a>",
+                                            "Layout the foundation of promgraming architecture, from multiplayer net event to the communication of local module",
+                                            "Responsible for programming coaching and code review process",
+                                            "<a href='https://www.youtube.com/watch?v=rAVeLbU_D7U'>Youtube Trailer</a>"]
             }
         ]
     },
@@ -26,7 +28,7 @@
                 "projectName" : "Viveport Video",
                 "projectScreenshot" : ["./sprites/screenshots/viveport_video_screenshot_01.png",
                                      "./sprites/screenshots/viveport_video_screenshot_02.png"],
-                "projectURL" : "https://www.viveport.com/apps/4f5f140a-0928-4fcb-8023-93dc212eac17/VIVEPORT_Video/",
+                "projectURL" : "https://www.viveport.com/apps/4f5f140a-0928-4fcb-8023-93dc212eac17",
                 "projectDescriptionList" : ["Support ambisonic audio at Runtime, which is not available yet at all other sdk (Oculus Audio, Facebook Audio, Google Audio sdk)", 
                                         "Play around with ffmepg and codec, for better and smooth streaming experience", 
                                         "Optimizing video load time, by loading them in multi-thread",
@@ -93,7 +95,7 @@
             {
                 "projectName" : "Coaching Leader",
                 "projectScreenshot" : ["./sprites/screenshots/coaching_leader_screenshot_01.jpeg","./sprites/screenshots/coaching_leader_screenshot_02.jpg" ],
-                "projectURL" : "http://wrainbo.com/",
+                "projectURL" : "https://blg-lead.com/simulation-app/",
                 "projectDescriptionList" : ["Learn and practice developing their subordinates through relationship, performance, and career challenges",
                     "Transmit data to app with Assetbundle and zip file, for accomplishing “hot” game content update",
                     "Develop web-based dialogue tree editor. This help user to design their own dialogue path more intuitively",
@@ -104,7 +106,8 @@
             },
             {
                 "projectName" : "Business Battle",
-                "projectScreenshot" : ["./sprites/screenshots/businessbattle_screenshot_02.jpg", "./sprites/screenshots/businessbattle_screenshot_01.jpg"],
+                "projectScreenshot" : ["./sprites/screenshots/businessbattle_screenshot_02.jpg", "./sprites/screenshots/businessbattle_screenshot_01.jpg",
+                "./sprites/screenshots/businessbattle_screenshot_03.png", "./sprites/screenshots/businessbattle_screenshot_04.png"],
                 "projectURL" : "http://wrainbo.com/bizbattlegame",
                 "projectDescriptionList" : ["Business Battle is a fantasy strategy game that teaches economics and business fundamentals",
                     "Build micro simulation, user can receive an immediate personal record after each game",
